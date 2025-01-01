@@ -18,6 +18,16 @@ git commit -m "备注"
 git push origin main
 ```
 
+- 查看仓库的更新日志：
+
+  ```
+  git log
+  git log --oneline
+  # --oneline 可以只输出一行
+  ```
+
+  
+
 ## 考试时间
 
 ![image-20250101164502085](https://ccccooh.oss-cn-hangzhou.aliyuncs.com/img/image-20250101164502085.png)
