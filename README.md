@@ -19,14 +19,17 @@ git push origin main
 ```
 
 - 查看仓库的更新日志：
+```
+git log
+git log --oneline
+# --oneline 可以只输出一行
+```
 
-  ```
-  git log
-  git log --oneline
-  # --oneline 可以只输出一行
-  ```
+- 查看`git add`的状态：
 
-  
+```
+git status
+```
 
 ## 考试时间
 
